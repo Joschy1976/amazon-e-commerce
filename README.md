@@ -6,7 +6,7 @@
 
 #
 
-### [Working Video](https://www.linkedin.com/posts/saket-kothari_a-web-app-which-is-fully-responsive-that-activity-6838861781708931072-F_ac?utm_source=share&utm_medium=member_desktop)
+
 
 A web app which is fully responsive that tries to imitate the desktop version of Amazon website, in this you can add, remove an item to cart,
 It has payment integration and also it has user authentication feature thanks to Firebase.
