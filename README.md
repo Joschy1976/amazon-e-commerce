@@ -1,6 +1,6 @@
 # Amazon-Clone
 
-### [Live Site](https://amazon-next-saketkothari.vercel.app)
+
 
 <img style="text-align:center" src="https://user-images.githubusercontent.com/81709725/123828141-d7574880-d91e-11eb-87a2-adc6dd07ca1e.gif" width="600" height="400"/>
 
